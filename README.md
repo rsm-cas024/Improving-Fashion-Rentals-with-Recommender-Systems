@@ -1,0 +1,3 @@
+![unnamed](https://github.com/user-attachments/assets/3ae525a0-584a-4706-9ace-ead0de528b10)
+
+Online apparel rentals face challenges in providing accurate fit and size recommendations to enhance customer satisfaction and reduce returns. This study uses the RentTheRunway dataset, which includes user reviews, fit feedback, ratings, and measurements, to address these issues. We explore predictive tasks such as fit prediction, size recommendation, and sentiment analysis. Using machine learning models, we demonstrate how customer and item data can improve personalization and operational efficiency in the fashion rental industry.
